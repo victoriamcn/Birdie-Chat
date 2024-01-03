@@ -25,10 +25,10 @@
     <img src="birdiechat.png" alt="Logo">
   
 
-<h3 align="center">Birdie Chat</h3>
+<h3 align="center">Introducing BirdieChat</h3>
 
   <p align="center">
-    Introducing BirdieChat – a chat application designed to streamline your communication experience. Connect seamlessly with friends, family, or colleagues through lightning-fast instant messaging and elevate expression with multimedia sharing, including photos, videos, and voice messages - all while ensuring the utmost privacy with end-to-end encryption. With cross-device syncing, ConnectChat ensures your conversations are always accessible, providing a platform that goes beyond mere messaging to foster meaningful connections.
+    Cat ipsum dolor sit amet, good now the other hand, yet sitting in a box cuddle no cuddle cuddle love scratch scratch. Cats are the world missing until dinner time. do not try to mix old food with new one to fool me! claws in your leg yet ears back wide eyed yet immediately regret falling into bathtub. Catch small lizards, bring them into house, then unable to find them on carpet trip on catnip meow all night poop on grasses chase ball of string. Destroy dog bite nose of your human. Am in trouble, roll over, too cute for human to get mad chase after silly colored fish toys around the house spend six hours per day washing, but still have a crusty butthole sit in window and stare oooh, a bird, yum. Weigh eight pounds but take up a full-size bed all of a sudden cat goes crazy, but freak human out make funny noise mow mow mow mow mow mow success now attack human and it's 3am, time to create some chaos , murf pratt ungow ungow walk on keyboard . via [www.catipsum.com](http://www.catipsum.com/index.php)
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
