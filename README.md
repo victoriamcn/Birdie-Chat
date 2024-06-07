@@ -74,9 +74,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+I have a cat named Birdie who likes to chat with me. This app is meant to mimic Whatsapp with all responses to the human chats being what a cat might say. Does it make sense? No. Does it make me laugh? Yes.  
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+To make the cat responses, I am leaning on the [Cat Ipsum Generator](https://fungenerators.com/lorem-ipsum/cat/) to *truly* get in the mind of a cat. 
+
+[Source Code from WebDevSimplified/Whatsapp-Clone.](https://github.com/WebDevSimplified/Whatsapp-Clone)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
